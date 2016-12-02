@@ -14,5 +14,10 @@ namespace Git_Hub_Demo
             Console.WriteLine("Hi There!");
             Console.ReadLine();
         }
+
+        public void Test()
+        {
+
+        }
     }
 }
