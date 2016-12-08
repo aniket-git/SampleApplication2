@@ -8,5 +8,6 @@ namespace Git_Hub_Demo
 {
     class Class2
     {
+        int number;
     }
 }
